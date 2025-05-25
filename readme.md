@@ -8,7 +8,7 @@ A utility to run Python scripts with persistent, fully-cached HTTP requests.
 *   **Customizable Cache Directory:** Specify a custom location for the cache.
 *   **Cache Listing:**  List all cached requests with URLs and request bodies.
 *   **Drop-in Replacement:**  Wraps `requests` to seamlessly enable caching within your scripts.
-*   **Supports DELETE/POST/PUT**
+*   **Supports GET/DELETE/POST/PUT**
 
 **Usage:**
 
