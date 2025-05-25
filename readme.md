@@ -1,6 +1,6 @@
 # cacher
 
-A utility to run Python scripts with persistent, fully-cached HTTP requests.
+A utility to run Python scripts with persistent, fully-cached HTTP(S) requests.
 
 **Key Features:**
 
